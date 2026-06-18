@@ -1,236 +1,366 @@
-# FAHEEM MUSTHAFA P
+# 👋 Hi, I'm Faheem Musthafa P
 
-**Role:** Student | Campus Lead
-**Squad Domain:** Strategist | **FIFA Nation:** Argentina 🇦🇷
+<div align="center">
+
+## 🇦🇷 Student • Campus Lead • Strategist
+
+**B.Tech CSE Student | NCC Corporal (CPL) | Former IEDC IPR Lead**
+
+*"Learning, Leading, Collaborating, and Growing Every Day."*
+
+</div>
 
 ---
 
-## About Me
+# 🚀 About Me
 
-I am **Faheem Musthafa P**, a 3rd-year Computer Science and Engineering student at **Sreepathy Institute of Management and Technology (SPT)**. I currently serve as the **Campus Lead** at my college and take pride in being an **NCC Corporal (CPL)** and former **IEDC IPR Lead at IPT Shoranur**.
+I'm **Faheem Musthafa P**, a 3rd-year Computer Science and Engineering student at **Sreepathy Institute of Management and Technology (SPT)**.
 
-I am still exploring different paths in technology and figuring out where I truly belong. Along the way, I have worked on applications, websites, poster design, and community initiatives. Recently, I have been focusing on learning **Cybersecurity** and **Networking**, fields that have sparked my curiosity and pushed me to expand my technical knowledge.
+Currently serving as a **Campus Lead**, I enjoy combining technology, leadership, and community building to create meaningful impact.
 
-What brings me to **μFIFA** is the opportunity to collaborate, compete, and grow alongside passionate people from different domains. I want to work together with fellow Argentina supporters, contribute strategically to the team, and help lead us toward victory while continuously improving myself throughout the tournament.
+My journey has taken me through web development, application development, design, community initiatives, and student leadership. Recently, I've been focusing on **Cybersecurity**, **Networking**, **Cloud Technologies**, and **Open Source Collaboration**.
 
-I believe growth happens when responsibility meets teamwork. While I may describe myself as someone who takes time to find motivation, I perform at my best when working with a committed team and contributing toward a shared goal.
+I believe growth happens when responsibility meets teamwork, and I'm always looking for opportunities to learn, contribute, and connect with passionate individuals.
 
 ---
 
 # ⚽ FIFA World Cup Corner
 
-## My Nation & Why
+## 🇦🇷 My Nation
+
+### Argentina
+
+Although I don't watch football regularly, I have always been an Argentina supporter.
+
+My family has supported Argentina for years, and that loyalty naturally became part of me as well.
+
+Argentina represents values that inspire me:
+
+* Passion
+* Resilience
+* Determination
+* Teamwork
+* Leadership
+
+---
+
+## 🌍 Supporting Team in FIFA World Cup 2026
 
 **Argentina 🇦🇷**
 
-Even though I don't watch football regularly, I have always been an Argentina supporter. My family has supported Argentina for years, and that loyalty naturally became part of me as well.
+---
 
-Argentina represents passion, resilience, and teamwork—qualities I admire both in football and in real life.
-
-### Supporting Team in the Real World Cup 2026
-
-**Argentina**
-
-### All-Time Favourite Players
+## ⭐ All-Time Favourite Players
 
 * Lionel Messi
 * Cristiano Ronaldo
 
-### Best Football Memory
+---
 
-My favorite football moment is undoubtedly **Argentina winning the FIFA World Cup 2022**. Watching Messi finally lift the trophy after years of dedication was a moment that united football fans around the world and remains my most memorable football experience.
+## 👑 Best Player Right Now
 
-### 2026 Predictions
+### Lionel Messi
 
-**Winner:** Argentina 🇦🇷
+For me, Lionel Messi remains the best player in the world.
 
-**Dark Horse:** Portugal 🇵🇹
+His vision, leadership, consistency, humility, and ability to influence matches continue to set him apart. Watching Messi achieve his dream of lifting the FIFA World Cup remains one of the greatest moments in football history.
 
-### μFIFA World Cup 2026 – Tournament Goals
+---
 
-**Argentina**
+## 🏆 Best Football Memory
 
-* Strengthen collaboration among Argentina supporters.
-* Build meaningful connections across the μLearn ecosystem.
-* Improve my leadership, networking, and communication skills.
-* Contribute strategically to help Team Argentina perform at its best.
-* Learn from talented peers while growing both personally and professionally.
+### Argentina Winning FIFA World Cup 2022
+
+Watching Messi finally lift the World Cup trophy after years of dedication was unforgettable.
+
+It was a historic moment that united football fans around the world and cemented his legacy among the greatest players of all time.
+
+---
+
+## 🔮 FIFA World Cup 2026 Predictions
+
+### 🏆 Winner
+
+🇦🇷 Argentina
+
+### 🌟 Dark Horse
+
+🇵🇹 Portugal
+
+---
+
+## 🎯 μFIFA World Cup 2026 Goals
+
+### Team Goals
+
+* Strengthen collaboration among Argentina supporters
+* Contribute strategically to Team Argentina
+* Encourage teamwork and effective communication
+* Support fellow teammates throughout the tournament
+
+### Personal Goals
+
+* Improve leadership skills
+* Expand my professional network
+* Learn from talented peers
+* Grow as a strategist and technologist
+* Create meaningful connections within μLearn
+
+---
+
+# 💻 Technical Skills
+
+## 🌐 Development
+
+```text
+React
+Vite
+JavaScript
+Firebase
+Tailwind CSS
+Git
+GitHub
+```
+
+## 🤖 AI & Productivity
+
+```text
+ChatGPT
+Claude
+Gemini
+Perplexity
+Google Workspace
+```
+
+## 🎨 Design
+
+```text
+Canva
+Figma
+```
+
+## 🔧 Hardware & IoT
+
+```text
+ESP32
+Arduino
+IoT Sensors
+Embedded Systems
+```
+
+## 📚 Currently Learning
+
+```text
+Cybersecurity
+Networking
+Cloud Technologies
+Open Source Collaboration
+```
 
 ---
 
 # 🏅 Portfolio Highlights
 
-Although I am still a student, I have gained experience through projects involving web development, application development, design, and community initiatives.
+## 🚀 Notable Projects
 
-### Notable Projects
-
-* College application and website development projects.
-* Part-time application development work.
-* Academic projects completed during Diploma and B.Tech studies.
-* Team Leader for both Major and Minor Diploma Projects.
-
-### Technical Skills
-
-#### Development
-
-* React
-* Vite
-* Firebase
-* JavaScript
-* Tailwind CSS
-* Git & GitHub
-
-#### AI & Productivity
-
-* ChatGPT
-* Claude
-* Gemini
-* Perplexity
-* Google Workspace Tools
-
-#### Design
-
-* Canva
-* Figma
-
-#### Hardware & IoT
-
-* ESP32
-* Arduino
-* IoT Sensors
-* Embedded Systems Prototyping
-
-#### Current Learning Focus
-
-* Cybersecurity
-* Networking
-* Cloud Technologies
-* Open Source Collaboration
+* College Application Development Projects
+* College Website Development Projects
+* Part-Time Application Development Work
+* Academic Projects During Diploma & B.Tech
+* Team Leader for Major & Minor Diploma Projects
 
 ---
 
-## History of Open Source & Collaborative Contributions
+# 🌟 Open Source & Collaboration
 
-I actively explore open-source projects, community collaborations, and student-led initiatives. Through μLearn and other technical communities, I continue learning how to contribute effectively and collaborate with developers from diverse backgrounds.
+I actively explore open-source projects, collaborative development, and student-led initiatives.
+
+Through μLearn and various developer communities, I continue improving my ability to:
+
+* Collaborate effectively
+* Contribute to projects
+* Learn modern development workflows
+* Build community-driven solutions
 
 ---
 
-## History of Community Engagement
+# 🤝 Community Engagement
 
-I have participated in several technology and community events, including:
+## Events & Programs
 
 * μLearn Mutate
 * Muziris by μLearn
-* Campus community programs
-* Technical workshops and hackathons
+* Campus Community Programs
+* Technical Workshops
+* Hackathons
+* Student Leadership Activities
 
-### Communities & Organizations
+---
+
+## Communities & Organizations
 
 * μLearn
 * NCC
 * IEDC
 * Student Tech Communities
-* Various Discord-based developer communities
-
-I strongly believe that communities create opportunities for learning, networking, and growth.
+* Developer Discord Communities
 
 ---
 
-## Domain Profiles
+# 🌐 Connect With Me
 
-**GitHub:** https://github.com/FM9447
+## GitHub
 
-**Medium:** faheemmusthafa.p
+🔗 https://github.com/FM9447
 
-**Discord:** fm_faheem
+## Medium
+
+🔗 https://medium.com/@faheemmusthafa.p
+
+## Discord
+
+👤 fm_faheem
 
 ---
 
-## Tools, Workflows & Automations
+# 🛠️ Tools & Technologies
+
+### Development
 
 * VS Code
 * GitHub
 * React Ecosystem
 * Firebase
+* Arduino IDE
+
+### Design
+
 * Canva
 * Figma
+
+### AI Tools
+
 * ChatGPT
 * Claude
 * Gemini
 * Perplexity
-* Google Tools
-* Arduino IDE
+
+### Productivity
+
+* Google Docs
+* Google Sheets
+* Google Drive
+* Google Workspace
 
 ---
 
-## Public Portfolio & Recognition
-
-I continue building projects and expanding my portfolio through academic work, community involvement, and self-learning initiatives.
-
-### Certifications
+# 🏆 Certifications
 
 * Coursera Certifications
-* Additional online learning certifications related to technology and professional development
+* Technology Skill Development Programs
+* Professional Development Courses
+* Community Learning Certifications
 
 ---
 
-## Education & Proof of Work
+# 🎓 Education
 
-### Current Education
+## Current Education
 
-**B.Tech in Computer Science and Engineering**
-Sreepathy Institute of Management and Technology (SPT)
+### B.Tech in Computer Science & Engineering
 
-### Previous Education
-
-**Diploma in Computer Science Engineering**
-Technical Education Department, Kerala
+**Sreepathy Institute of Management and Technology (SPT)**
 
 ---
 
-## History of Leadership
+## Previous Education
+
+### Diploma in Computer Science Engineering
+
+**Technical Education Department, Kerala**
+
+---
+
+# 👨‍💼 Leadership Experience
+
+### Positions Held
 
 * Campus Lead
 * NCC Corporal (CPL)
-* Former IEDC IPR Lead at IPT Shoranur
-* Team Leader for Diploma Major Project
-* Team Leader for Diploma Minor Project
-* Active contributor and organizer in student initiatives and technical communities
-
-Leadership has taught me how to coordinate teams, communicate effectively, and create opportunities for collaboration.
-
----
-
-## Networking
-
-I enjoy connecting with students, developers, designers, cybersecurity enthusiasts, and community builders. Through μFIFA, I hope to expand my network, collaborate on meaningful projects, and learn from people with different skill sets and experiences.
+* Former IEDC IPR Lead – IPT Shoranur
+* Team Leader – Diploma Major Project
+* Team Leader – Diploma Minor Project
+* Student Community Organizer
+* Technical Event Volunteer
 
 ---
 
-## Career Plan
+## Leadership Lessons
 
-### Immediate Goals (6–12 Months)
+Leadership has taught me:
 
-* Become a District Lead or Zonal Lead within μLearn.
-* Improve my Cybersecurity and Networking skills.
-* Explore different technology domains to discover my long-term specialization.
-* Contribute to more projects and community initiatives.
-* Build stronger technical and leadership capabilities.
-
-### Long-Term Goals
-
-I want to develop into a technology professional with strong technical expertise, leadership skills, and community impact.
-
-While I may sometimes need external motivation, I have learned that responsibility and teamwork bring out my best performance. μFIFA provides exactly that environment—an opportunity to work with ambitious people, take ownership, and grow through collaboration.
-
-Through this journey, I hope to become a more confident leader, a stronger technologist, and someone capable of creating meaningful impact within the communities I am part of.
+* Team Coordination
+* Effective Communication
+* Responsibility & Ownership
+* Strategic Thinking
+* Community Building
+* Problem Solving
 
 ---
 
-## Profile Card
+# 🌐 Networking
 
+I enjoy connecting with:
 
-<img
-    src="https://mulearn.org/embed/rank/faheemmusthafa@mulearn"
-    width="400px">
-</img>
+* Students
+* Developers
+* Designers
+* Cybersecurity Enthusiasts
+* Community Builders
+* Open Source Contributors
+
+Through μFIFA, I hope to collaborate with talented individuals, exchange ideas, and build meaningful relationships.
+
+---
+
+# 🎯 Career Vision
+
+## Immediate Goals (6–12 Months)
+
+* Become a District Lead or Zonal Lead within μLearn
+* Improve Cybersecurity & Networking Skills
+* Explore Different Technology Domains
+* Contribute to More Projects
+* Strengthen Leadership Abilities
+
+---
+
+## Long-Term Goals
+
+I aspire to become a technology professional who combines:
+
+* Technical Excellence
+* Leadership
+* Community Impact
+* Continuous Learning
+* Innovation
+
+My goal is not only to build technology but also to create opportunities that help others grow.
+
+---
+
+# 📊 μLearn Profile Card
+
+<p align="center">
+  <img src="https://mulearn.org/embed/rank/faheemmusthafa@mulearn" width="400">
+</p>
+
+---
+
+<div align="center">
+
+## 🇦🇷 Vamos Argentina!
+
+### Strategist • Campus Lead • NCC CPL • Future Cybersecurity Professional
+
+</div>
