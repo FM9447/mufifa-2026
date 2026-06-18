@@ -229,9 +229,8 @@ Through this journey, I hope to become a more confident leader, a stronger techn
 
 ## Profile Card
 
-```html
+
 <img
     src="https://mulearn.org/embed/rank/faheemmusthafa@mulearn"
     width="400px">
 </img>
-```
